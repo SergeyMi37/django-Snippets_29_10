@@ -4,3 +4,5 @@
 staticfiles/
 *.pyc
 db.*
+venv_*
+.env
